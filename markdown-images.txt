@@ -1,0 +1,19 @@
+prp statistics
+------------------------------------------------------------------------------------------------------------
+![PRPStats](https://raw.githubusercontent.com/shayansaha85/images/master/bishop_prp_stats.png)
+
+ngq statistics
+------------------------------------------------------------------------------------------------------------
+![NGQStats](https://raw.githubusercontent.com/shayansaha85/images/master/bishop_ngq_stats.png)
+
+system load
+------------------------------------------------------------------------------------------------------------
+![SystemLoad](https://raw.githubusercontent.com/shayansaha85/images/master/bishop_system_load.png)
+
+database
+------------------------------------------------------------------------------------------------------------
+![Database](https://raw.githubusercontent.com/shayansaha85/images/master/bishop_database.png)
+
+jvm
+------------------------------------------------------------------------------------------------------------
+![JVM](https://raw.githubusercontent.com/shayansaha85/images/master/bishop_jvm.png)
